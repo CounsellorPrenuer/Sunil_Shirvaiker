@@ -1,0 +1,667 @@
+{
+  "siteSettings": {
+    "_createdAt": "2026-07-23T18:22:45Z",
+    "_id": "siteSettings",
+    "_rev": "PGI1Mc19xNWwE3RgMoKhr4",
+    "_type": "siteSettings",
+    "_updatedAt": "2026-07-23T18:22:45Z",
+    "brandName": "Shirvaiker Strategic Consulting",
+    "shortAbout": "Shirvaiker Strategic Consulting is a mentoring and advisory practice founded by Prof. Sunil S. Shirvaiker, blending nearly four decades of corporate leadership and higher-education experience. We help individuals and organisations move from \"Clutter to Clarity\" through evidence-based, precision-led guidance. Our work spans career counselling, statistics and quality (Six Sigma / SPC) consulting, combining scientific psychometric tools with real-world industry insight. Whether guiding a student’s stream choice or sharpening an organisation’s analytical rigour, our approach is calculated, personalised and outcome-focused. Strategy-led growth is at the heart of everything we do.",
+    "strapline": "Precision in Guidance, Excellence in Performance",
+    "tagline": "Clutter to Clarity"
+  },
+  "about": {
+    "_createdAt": "2026-07-23T18:22:46Z",
+    "_id": "aboutContent",
+    "_rev": "VOfSO31kbJ3qiUlVmQ8gg3",
+    "_system": {
+      "base": {
+        "id": "aboutContent",
+        "rev": "PGI1Mc19xNWwE3RgMoKiEN"
+      }
+    },
+    "_type": "about",
+    "_updatedAt": "2026-09-11T14:42:17Z",
+    "bio": "I am Prof. Sunil S. Shirvaiker, Founder & Chief Mentor of Shirvaiker Strategic Consulting. My career spans nearly four decades across two interconnected worlds — high-stakes corporate leadership and elite higher education. For 24+ years I held senior roles across the pharmaceutical, research and analytics sectors, including Director of Operations and Director of Quality & Business Research at IQVIA (IMS Health India), and DGM – Strategic Business Research at Sun Pharma, with earlier roles at Novartis, Sandoz and Siemens. I then spent over 13 years as Program Director, HOD and Area Chairperson (Placements) at SVKM’s NMIMS – Nilkamal School of Mathematics, Applied Statistics & Analytics, where I continue as Visiting Faculty. I hold a B.Sc. and M.Sc. in Statistics from the University of Mumbai, a Diploma in Marketing Management from NMIMS, and a Six Sigma (IT) Green Belt. As a Mentoria-Certified Career Counsellor (Advance and Ascend levels), I blend scientific psychometric testing with real industry experience to help people move from “Clutter to Clarity.” Precision in Guidance. Excellence in Performance.",
+    "fullName": "Prof. Sunil S. Shirvaiker",
+    "photo": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-b484afdedcbaa3223578d6c879fbe2bb18e86146-3648x5014-jpg",
+        "_type": "reference"
+      }
+    }
+  },
+  "services": [
+    {
+      "_createdAt": "2026-07-23T18:17:05Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKCxH",
+      "_rev": "PGI1Mc19xNWwE3RgMoKCsc",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:17:05Z",
+      "contact": "+91 70210 24718 | Email: counselling@shirvaikerconsulting.com",
+      "description": "Evidence-based career counselling that blends scientific psychometric assessment with decades of cross-industry insight. We build personalised, multi-year roadmaps that align an individual’s interests, personality and abilities with real market demand — from stream selection to executive career pivots.",
+      "mode": "Hybrid (online & offline)",
+      "title": "Career Counselling & Guidance",
+      "whoItsFor": "School students (Grades 8–12), college graduates & postgraduates, and working professionals."
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:06Z",
+      "_id": "GskSHzltiom27vUz3m4DoF",
+      "_rev": "GskSHzltiom27vUz3m4DkQ",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:17:06Z",
+      "contact": "+91 70210 24718 | Email: counselling@shirvaikerconsulting.com",
+      "description": "Focused guidance at every academic crossroad — from school stream selection through to undergraduate course choices and postgraduate decisions. We help students and parents decode the options, weigh specialisations and institutions, and match them to aptitude and long-term goals, reducing guesswork at critical decision points.",
+      "mode": "Hybrid",
+      "title": "Admission & Stream Guidance",
+      "whoItsFor": "School students and their parents; college aspirants; and college undergraduates deciding on postgraduate studies and specialisations."
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:07Z",
+      "_id": "GskSHzltiom27vUz3m4E3X",
+      "_rev": "GskSHzltiom27vUz3m4Dzi",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:17:07Z",
+      "contact": "+91 98204 11709 | Email: consulting@shirvaikerconsulting.com",
+      "description": "Applied statistical consulting for industry — using rigorous data analysis, statistical and predictive modelling, forecasting and research methods to solve a wide range of business problems. Backed by decades of corporate research and analytics experience across the pharmaceutical, financial-services, market-research and manufacturing sectors, we help organisations turn data into confident decisions.",
+      "mode": "Hybrid",
+      "title": "Statistical Consulting",
+      "whoItsFor": "Companies and organisations across sectors seeking to solve data, analytics and business problems."
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:08Z",
+      "_id": "k57DXB4TxK58qNiTm4Y4QE",
+      "_rev": "k57DXB4TxK58qNiTm4Y4P8",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:17:08Z",
+      "contact": "+91 98204 11709 | Email: consulting@shirvaikerconsulting.com",
+      "description": "Practical quality-management consulting in Six Sigma and Statistical Process Control, translating rigorous methodology into measurable process improvement.",
+      "mode": "Hybrid",
+      "title": "Quality Consulting — Six Sigma / SPC",
+      "whoItsFor": "Organisations, teams and professionals seeking process excellence."
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:09Z",
+      "_id": "GskSHzltiom27vUz3m55KF",
+      "_rev": "GskSHzltiom27vUz3m55GQ",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:32:09Z",
+      "contact": "+91 70210 24718 | Email: counselling@shirvaikerconsulting.com",
+      "description": "Evidence-based career counselling that blends scientific psychometric assessment with decades of cross-industry insight. We build personalised, multi-year roadmaps that align an individual’s interests, personality and abilities with real market demand — from stream selection to executive career pivots.",
+      "mode": "Hybrid (online & offline)",
+      "title": "Career Counselling & Guidance",
+      "whoItsFor": "School students (Grades 8–12), college graduates & postgraduates, and working professionals."
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:10Z",
+      "_id": "GskSHzltiom27vUz3m55ZX",
+      "_rev": "GskSHzltiom27vUz3m55Vi",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:32:10Z",
+      "contact": "+91 70210 24718 | Email: counselling@shirvaikerconsulting.com",
+      "description": "Focused guidance at every academic crossroad — from school stream selection through to undergraduate course choices and postgraduate decisions. We help students and parents decode the options, weigh specialisations and institutions, and match them to aptitude and long-term goals, reducing guesswork at critical decision points.",
+      "mode": "Hybrid",
+      "title": "Admission & Stream Guidance",
+      "whoItsFor": "School students and their parents; college aspirants; and college undergraduates deciding on postgraduate studies and specialisations."
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:11Z",
+      "_id": "PGI1Mc19xNWwE3RgMoLEPP",
+      "_rev": "PGI1Mc19xNWwE3RgMoLEKk",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:32:11Z",
+      "contact": "+91 98204 11709 | Email: consulting@shirvaikerconsulting.com",
+      "description": "Applied statistical consulting for industry — using rigorous data analysis, statistical and predictive modelling, forecasting and research methods to solve a wide range of business problems. Backed by decades of corporate research and analytics experience across the pharmaceutical, financial-services, market-research and manufacturing sectors, we help organisations turn data into confident decisions.",
+      "mode": "Hybrid",
+      "title": "Statistical Consulting",
+      "whoItsFor": "Companies and organisations across sectors seeking to solve data, analytics and business problems."
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:12Z",
+      "_id": "k57DXB4TxK58qNiTm4YIUA",
+      "_rev": "k57DXB4TxK58qNiTm4YIT4",
+      "_type": "service",
+      "_updatedAt": "2026-07-23T18:32:12Z",
+      "contact": "+91 98204 11709 | Email: consulting@shirvaikerconsulting.com",
+      "description": "Practical quality-management consulting in Six Sigma and Statistical Process Control, translating rigorous methodology into measurable process improvement.",
+      "mode": "Hybrid",
+      "title": "Quality Consulting — Six Sigma / SPC",
+      "whoItsFor": "Organisations, teams and professionals seeking process excellence."
+    }
+  ],
+  "packages": [
+    {
+      "_createdAt": "2026-07-23T18:32:04Z",
+      "_id": "GskSHzltiom27vUz3m54pf",
+      "_rev": "GskSHzltiom27vUz3m54lq",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:04Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "4 career counselling sessions",
+        "Lifetime access to Knowledge Gateway",
+        "Attend live webinars by industry experts",
+        "Customised reports after each session with education pathways",
+        "Guidance on studying abroad",
+        "CV reviews during internships/graduation"
+      ],
+      "isPopular": true,
+      "price": "₹10,599",
+      "targetAudience": "10-12 STUDENTS",
+      "title": "Achieve Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:06Z",
+      "_id": "GskSHzltiom27vUz3m554x",
+      "_rev": "GskSHzltiom27vUz3m5518",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:06Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "3 career counselling sessions",
+        "Lifetime access to Knowledge Gateway",
+        "Attend live webinars by industry experts",
+        "Customised reports after each session with information on certificate/online courses",
+        "Guidance on studying abroad",
+        "CV reviews for job application"
+      ],
+      "isPopular": true,
+      "price": "₹10,599",
+      "targetAudience": "COLLEGE GRADUATES",
+      "title": "Ascend Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:00Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKBWi",
+      "_rev": "PGI1Mc19xNWwE3RgMoKBS3",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:17:00Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "4 career counselling sessions",
+        "Lifetime access to Knowledge Gateway",
+        "Attend live webinars by industry experts",
+        "Customised reports after each session with education pathways",
+        "Guidance on studying abroad",
+        "CV reviews during internships/graduation"
+      ],
+      "isPopular": true,
+      "price": "₹10,599",
+      "targetAudience": "10-12 STUDENTS",
+      "title": "Achieve Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:02Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKBpM",
+      "_rev": "PGI1Mc19xNWwE3RgMoKBkh",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:17:02Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "3 career counselling sessions",
+        "Lifetime access to Knowledge Gateway",
+        "Attend live webinars by industry experts",
+        "Customised reports after each session with information on certificate/online courses",
+        "Guidance on studying abroad",
+        "CV reviews for job application"
+      ],
+      "isPopular": true,
+      "price": "₹10,599",
+      "targetAudience": "COLLEGE GRADUATES",
+      "title": "Ascend Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:04Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKCed",
+      "_rev": "PGI1Mc19xNWwE3RgMoKCZy",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:17:04Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "3 career counselling sessions",
+        "Lifetime access to Knowledge Gateway",
+        "Attend live webinars by industry experts",
+        "Customised reports after each session with information on certificate/online courses",
+        "Guidance on studying abroad",
+        "CV reviews for job application"
+      ],
+      "isPopular": true,
+      "price": "₹10,599",
+      "targetAudience": "WORKING PROFESSIONALS",
+      "title": "Ascend Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:09Z",
+      "_id": "k57DXB4TxK58qNiTm4YIPm",
+      "_rev": "k57DXB4TxK58qNiTm4YIOg",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:09Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "3 career counselling sessions",
+        "Lifetime access to Knowledge Gateway",
+        "Attend live webinars by industry experts",
+        "Customised reports after each session with information on certificate/online courses",
+        "Guidance on studying abroad",
+        "CV reviews for job application"
+      ],
+      "isPopular": true,
+      "price": "₹10,599",
+      "targetAudience": "WORKING PROFESSIONALS",
+      "title": "Ascend Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:16:58Z",
+      "_id": "GskSHzltiom27vUz3m4DC1",
+      "_rev": "GskSHzltiom27vUz3m4D8C",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:16:58Z",
+      "features": [
+        "Psychometric assessments to measure your interests, personality and abilities",
+        "8 career counselling sessions (1 every year) with Mentoria's expert career coaches until graduation",
+        "Lifetime access to Knowledge Gateway",
+        "Invites to live webinars by industry experts",
+        "Customised reports after each session with education pathways",
+        "Guidance on studying abroad",
+        "CV building during internships/graduation"
+      ],
+      "isPopular": true,
+      "price": "₹15,000",
+      "targetAudience": "8-9 STUDENTS",
+      "title": "Discover Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:03Z",
+      "_id": "k57DXB4TxK58qNiTm4YIFu",
+      "_rev": "k57DXB4TxK58qNiTm4YIEo",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:03Z",
+      "features": [
+        "Psychometric assessments to measure your interests, personality and abilities",
+        "8 career counselling sessions (1 every year) with Mentoria's expert career coaches until graduation",
+        "Lifetime access to Knowledge Gateway",
+        "Invites to live webinars by industry experts",
+        "Customised reports after each session with education pathways",
+        "Guidance on studying abroad",
+        "CV building during internships/graduation"
+      ],
+      "isPopular": true,
+      "price": "₹15,000",
+      "targetAudience": "8-9 STUDENTS",
+      "title": "Discover Plus+"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:01Z",
+      "_id": "GskSHzltiom27vUz3m54aN",
+      "_rev": "GskSHzltiom27vUz3m54WY",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:01Z",
+      "features": [
+        "Psychometric assessment to measure your interests",
+        "1 career counselling session with Mentoria's expert career coaches",
+        "Lifetime access to Knowledge Gateway",
+        "Invites to live webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹5,500",
+      "targetAudience": "8-9 STUDENTS",
+      "title": "Discover"
+    },
+    {
+      "_createdAt": "2026-07-23T18:16:57Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKAvQ",
+      "_rev": "PGI1Mc19xNWwE3RgMoKAql",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:16:57Z",
+      "features": [
+        "Psychometric assessment to measure your interests",
+        "1 career counselling session with Mentoria's expert career coaches",
+        "Lifetime access to Knowledge Gateway",
+        "Invites to live webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹5,500",
+      "targetAudience": "8-9 STUDENTS",
+      "title": "Discover"
+    },
+    {
+      "_createdAt": "2026-07-23T18:16:59Z",
+      "_id": "GskSHzltiom27vUz3m4DRJ",
+      "_rev": "GskSHzltiom27vUz3m4DNU",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:16:59Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "1 career counselling session",
+        "Lifetime access to Knowledge Gateway",
+        "Pre-recorded webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹5,999",
+      "targetAudience": "10-12 STUDENTS",
+      "title": "Achieve Online"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:04Z",
+      "_id": "PGI1Mc19xNWwE3RgMoLDen",
+      "_rev": "PGI1Mc19xNWwE3RgMoLDa8",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:04Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "1 career counselling session",
+        "Lifetime access to Knowledge Gateway",
+        "Pre-recorded webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹5,999",
+      "targetAudience": "10-12 STUDENTS",
+      "title": "Achieve Online"
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:03Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKCHK",
+      "_rev": "PGI1Mc19xNWwE3RgMoKCCf",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:17:03Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "1 career counselling session",
+        "Lifetime access to Knowledge Gateway",
+        "Pre-recorded webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹6,499",
+      "targetAudience": "WORKING PROFESSIONALS",
+      "title": "Ascend Online"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:05Z",
+      "_id": "PGI1Mc19xNWwE3RgMoLDxR",
+      "_rev": "PGI1Mc19xNWwE3RgMoLDsm",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:05Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "1 career counselling session",
+        "Lifetime access to Knowledge Gateway",
+        "Pre-recorded webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹6,499",
+      "targetAudience": "COLLEGE GRADUATES",
+      "title": "Ascend Online"
+    },
+    {
+      "_createdAt": "2026-07-23T18:17:01Z",
+      "_id": "k57DXB4TxK58qNiTm4Y4Je",
+      "_rev": "k57DXB4TxK58qNiTm4Y4IY",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:17:01Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "1 career counselling session",
+        "Lifetime access to Knowledge Gateway",
+        "Pre-recorded webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹6,499",
+      "targetAudience": "COLLEGE GRADUATES",
+      "title": "Ascend Online"
+    },
+    {
+      "_createdAt": "2026-07-23T18:32:07Z",
+      "_id": "k57DXB4TxK58qNiTm4YILO",
+      "_rev": "k57DXB4TxK58qNiTm4YIKI",
+      "_type": "package",
+      "_updatedAt": "2026-07-23T18:32:07Z",
+      "features": [
+        "Psychometric assessment to measure your interests, personality and abilities",
+        "1 career counselling session",
+        "Lifetime access to Knowledge Gateway",
+        "Pre-recorded webinars by industry experts"
+      ],
+      "isPopular": false,
+      "price": "₹6,499",
+      "targetAudience": "WORKING PROFESSIONALS",
+      "title": "Ascend Online"
+    }
+  ],
+  "testimonials": [
+    {
+      "_createdAt": "2026-07-23T18:22:49Z",
+      "_id": "GskSHzltiom27vUz3m4UlS",
+      "_rev": "GskSHzltiom27vUz3m4Uhd",
+      "_type": "testimonial",
+      "_updatedAt": "2026-07-23T18:22:49Z",
+      "author": "Rhea Mirchandani",
+      "quote": "Shirvaiker Sir has been instrumental in guiding me and helping me make the right decisions at every stage of my career. Right from choosing the BSc Applied Statistics and Analytics program at NMIMS, even before the whole AI boom...",
+      "role": "Vice President – Data Strategy Lead, JPMorganChase"
+    },
+    {
+      "_createdAt": "2026-07-23T18:22:50Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKigL",
+      "_rev": "PGI1Mc19xNWwE3RgMoKibg",
+      "_type": "testimonial",
+      "_updatedAt": "2026-07-23T18:22:50Z",
+      "author": "Kavish Jain",
+      "quote": "Shirvaiker Sir has been an excellent mentor and teacher throughout my academic journey. His teaching is clear, well-structured, and focused on building a strong understanding of concepts.",
+      "role": "B.Sc. Applied Statistics & Analytics, NMIMS"
+    },
+    {
+      "_createdAt": "2026-07-23T18:22:47Z",
+      "_id": "k57DXB4TxK58qNiTm4Y9Iw",
+      "_rev": "k57DXB4TxK58qNiTm4Y9Hq",
+      "_type": "testimonial",
+      "_updatedAt": "2026-07-23T18:22:47Z",
+      "author": "Pratiksha Almelkar",
+      "quote": "Sunil Sir is a very friendly guide and motivating career counsellor. His guidance helped me understand my goals clearly and choose the right career path with confidence.",
+      "role": "Class 11 Student"
+    },
+    {
+      "_createdAt": "2026-07-23T18:22:48Z",
+      "_id": "k57DXB4TxK58qNiTm4Y9NK",
+      "_rev": "k57DXB4TxK58qNiTm4Y9ME",
+      "_type": "testimonial",
+      "_updatedAt": "2026-07-23T18:22:48Z",
+      "author": "Gouri Shelake",
+      "quote": "Thank you so much sir for such a wonderful session. It helped me a lot to know about myself and changed my perspective in a positive direction.",
+      "role": "Working Professional"
+    }
+  ],
+  "gallery": [
+    {
+      "_createdAt": "2026-07-23T18:23:41Z",
+      "_id": "GskSHzltiom27vUz3m4Zl5",
+      "_rev": "GskSHzltiom27vUz3m4ZhG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:41Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-a0a71ccd6ac0d4325997b4909c26dbc6d5ce6842-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Sandoz Product Event"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:39Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKohF",
+      "_rev": "PGI1Mc19xNWwE3RgMoKoca",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:39Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-709922797835a8e463a059450b8a73f92992a92f-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Sandoz Team"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:36Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKo1I",
+      "_rev": "PGI1Mc19xNWwE3RgMoKnwd",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:36Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-8e68c8869167378aed452e18a9bc211c4ffc1991-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "IMS Health"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:33Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKnQ0",
+      "_rev": "PGI1Mc19xNWwE3RgMoKnLL",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:33Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-b4dd46c3991265926212b868782db72f22571d9b-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Sandoz Networking"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:30Z",
+      "_id": "k57DXB4TxK58qNiTm4YAqM",
+      "_rev": "k57DXB4TxK58qNiTm4YApG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:30Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-69450fce856f98bc03ae987f0b9e2bc4c41b4337-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Sandoz Event"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:26Z",
+      "_id": "k57DXB4TxK58qNiTm4YAfO",
+      "_rev": "k57DXB4TxK58qNiTm4YAeI",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:26Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-81ae43840f48630d8fb6f41fe6be016cd7c688dd-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Sankhyiki Panel"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:23Z",
+      "_id": "k57DXB4TxK58qNiTm4YANq",
+      "_rev": "k57DXB4TxK58qNiTm4YAMk",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:23Z",
+      "category": "Archival",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-51f5879aaa25c5f50341beebcccba300f57769c1-1280x960-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Best Performance Award"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:19Z",
+      "_id": "k57DXB4TxK58qNiTm4YA7O",
+      "_rev": "k57DXB4TxK58qNiTm4YA6I",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:19Z",
+      "category": "Recent Event",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-c282c26e2d6d7da98aeb5501c21d3c04fc5c3e6d-6720x4480-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "OPEN ASIA Podium"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:13Z",
+      "_id": "k57DXB4TxK58qNiTm4Y9wQ",
+      "_rev": "k57DXB4TxK58qNiTm4Y9vK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:13Z",
+      "category": "Recent Event",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-60c1e54f79ac16cf1479f0c0f4f86186e249217f-6000x4000-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Panel Session"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:06Z",
+      "_id": "GskSHzltiom27vUz3m4WYJ",
+      "_rev": "GskSHzltiom27vUz3m4WUU",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:06Z",
+      "category": "Recent Event",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-524a310c67a59e48653c3dcd483d1cb7bc85a6ef-6720x4480-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "OPEN ASIA"
+    },
+    {
+      "_createdAt": "2026-07-23T18:23:01Z",
+      "_id": "PGI1Mc19xNWwE3RgMoKk2F",
+      "_rev": "PGI1Mc19xNWwE3RgMoKjxa",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:23:01Z",
+      "category": "Recent Event",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-bd92431def663fc4bf3fe3c2239f9af0c2429404-6000x4000-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "ICS 2023 Dais"
+    },
+    {
+      "_createdAt": "2026-07-23T18:22:56Z",
+      "_id": "k57DXB4TxK58qNiTm4Y9es",
+      "_rev": "k57DXB4TxK58qNiTm4Y9dm",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-07-23T18:22:56Z",
+      "category": "Recent Event",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-da1c7de885cc64e645d15f7d62f14f20ed010919-5472x3648-jpg",
+          "_type": "reference"
+        }
+      },
+      "title": "Best Faculty Award"
+    }
+  ]
+}
